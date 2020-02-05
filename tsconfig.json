@@ -20,13 +20,17 @@
     ],
     "paths": {
       "first": [
-        "dist/first/first",
-        "dist/first"
+        "projects/first/dist"
+      ],
+      "first/*": [
+        "projects/first/dist/*"
       ],
       "second": [
-        "dist/second/second",
-        "dist/second"
-      ]
+        "projects/second/dist"
+      ],
+      "second/*": [
+        "projects/second/dist/*"
+     ],
     }
   },
   "angularCompilerOptions": {
