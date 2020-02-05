@@ -1,5 +1,5 @@
 {
-  "name": "second",
+  "name": "secondtestkbtg",
   "version": "0.1.3",
   "scripts": {
     "build": "ng build second",
@@ -10,5 +10,5 @@
     "@angular/core": "^9.0.0-rc.12",
     "tslib": "^1.10.0"
   },
-  "gitHead": "add32726a16c136fd2396ed7782fb59503773def"
+  "gitHead": "0ed1f46b2d0f0deaf7a0e404567386fa4aa6bef8"
 }
