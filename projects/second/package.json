@@ -9,5 +9,6 @@
     "@angular/common": "^9.0.0-rc.12",
     "@angular/core": "^9.0.0-rc.12",
     "tslib": "^1.10.0"
-  }
+  },
+  "gitHead": "add32726a16c136fd2396ed7782fb59503773def"
 }
