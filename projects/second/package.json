@@ -8,10 +8,6 @@
   "peerDependencies": {
     "@angular/common": "^9.0.0-rc.12",
     "@angular/core": "^9.0.0-rc.12",
-    "first": "*",
     "tslib": "^1.10.0"
-  },
-  "devDependencies": {
-    "first": "*"
   }
 }
